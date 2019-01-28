@@ -1,8 +1,0 @@
-#+TITLE:     README
-#+AUTHOR:    Mengoreo
-#+EMAIL:     mengoreo@163.com
-#+STARTUP:   indent
-#+LANGUAGE:  en
-#+OPTIONS:   toc:nil num:0
-
-* My emacs configurations based on [[https://github.com/bbatsov/prelude][bbatsov/prelude]].
