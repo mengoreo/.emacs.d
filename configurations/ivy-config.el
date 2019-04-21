@@ -21,7 +21,7 @@
 		   ("C-c j" . counsel-git-grep)
 		   ("C-c k" . counsel-ag)
 		   ("C-x l" . counsel-locate)
-		   ("C-S-o" . counsel-rhythmbox)
+		   ;; ("C-S-o" . counsel-rhythmbox)
 
 		   ;; resume and other commands
 		   ("C-c C-r" . ivy-resume)
