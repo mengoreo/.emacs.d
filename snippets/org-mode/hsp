@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name: hugo-subtree-properties
+# key: hsp
+# --
+
+:PROPERTIES:
+:EXPORT_FILE_NAME: $1-in-org-subtree-export
+:EXPORT_DATE: `(format-time-string "%Y-%m-%d")`
+:EXPORT_HUGO_MENU:
+:EXPORT_HUGO_CUSTOM_FRONT_MATER:
+:END:
+
+$0

@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: hugo-subtree-header
+# key: hsb
+# --
+#+HUGO_BASE_DIR: ~/Desktop/MyGitLab/hugo-blog/
+#+OPTIONS: author:nil
+#+HUGO_SECTION: ./post
+#+HUGO_AUTO_SET_LASTMOD: t
+
+$0
