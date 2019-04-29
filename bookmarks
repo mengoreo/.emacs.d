@@ -1,0 +1,15 @@
+;;;; Emacs Bookmark Format Version 1 ;;;; -*- coding: utf-8-emacs -*- 
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("org-refile-last-stored"
+ (filename . "~/Library/Mobile Documents/com~apple~CloudDocs/org/gtd/gtd.org")
+ (front-context-string . "** TODO Paticle ")
+ (rear-context-string . " =>  0:03\n:END:\n")
+ (position . 3200))
+("org-capture-last-stored"
+ (filename . "~/Library/Mobile Documents/com~apple~CloudDocs/org/gtd/inbox.org")
+ (front-context-string)
+ (rear-context-string . "RNN\n** TODO CNN\n")
+ (position . 649))
+)

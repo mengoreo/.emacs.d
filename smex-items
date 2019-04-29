@@ -1,0 +1,58 @@
+
+;; ----- smex-history -----
+(
+ elpy-autopep8-fix-code
+ restart-emacs
+ elpy-config
+ package-delete
+ package-install
+ elpy-flymake-show-error
+ flymake-compile
+)
+
+;; ----- smex-data -----
+(
+ (update-tag . 19)
+ (package-install . 2)
+ (yas-expand . 1)
+ (yas-global-mode . 2)
+ (easy-hugo . 6)
+ (easy-hugo-preview . 4)
+ (easy-hugo-ag . 1)
+ (easy-hugo-open-config . 9)
+ (easy-hugo-view . 2)
+ (easy-hugo-previous-blog . 1)
+ (easy-hugo-newpost . 1)
+ (customize-group . 1)
+ (new-frame . 4)
+ (org-set-property . 1)
+ (org-set-tags . 69)
+ (restart-emacs . 6)
+ (org-display-inline-images . 5)
+ (eval-expression . 2)
+ (eval-buffer . 1)
+ (insert-org-image . 19)
+ (shell-command . 1)
+ (shell . 1)
+ (undo . 1)
+ (org-insert-clipboard-image . 11)
+ (org-insert-link-global . 1)
+ (eval-region . 1)
+ (org-mode . 2)
+ (org-insert-columns-dblock . 1)
+ (org-insert-link . 2)
+ (org-store-link . 2)
+ (org-refile . 1)
+ (whitespace-mode . 2)
+ (tags-search . 1)
+ (org-align-all-tags . 1)
+ (org-forward-heading-same-level . 2)
+ (org-toggle-heading . 2)
+ (org-edit-special . 1)
+ (count-words . 1)
+ (flymake-compile . 1)
+ (elpy-flymake-show-error . 1)
+ (elpy-autopep8-fix-code . 8)
+ (package-delete . 1)
+ (elpy-config . 1)
+)
